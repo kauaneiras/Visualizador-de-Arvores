@@ -4,6 +4,10 @@
 
 Este projeto é uma aplicação web desenvolvida como trabalho acadêmico da disciplina **Estrutura de Dados 2**, com foco no assunto de **Árvores**. A aplicação permite visualizar o funcionamento de diferentes tipos de estruturas de dados em árvore através de animações passo a passo, facilitando o entendimento dos algoritmos de inserção, remoção e busca.
 
+## 🎥 Vídeo de Demonstração
+
+[Demonstração do Visualizador de Árvores](https://youtu.be/BiohCeUVCiw)
+
 ### 🎓 Informações Acadêmicas
 
 - **Disciplina:** Estrutura de Dados 2
